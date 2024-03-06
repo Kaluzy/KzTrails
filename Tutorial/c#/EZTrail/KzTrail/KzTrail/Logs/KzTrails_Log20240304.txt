@@ -1,0 +1,8 @@
+2024-03-04 21:46:17.361 -05:00 [WRN] Warning log from Region controller
+2024-03-04 21:46:17.468 -05:00 [ERR] Error log from Region Controller
+2024-03-04 22:11:55.435 -05:00 [WRN] Warning log from Region controller
+2024-03-04 22:11:55.435 -05:00 [WRN] Warning log from Region controller
+2024-03-04 22:11:55.440 -05:00 [WRN] Warning log from Region controller
+2024-03-04 22:11:55.472 -05:00 [ERR] Error log from Region Controller
+2024-03-04 22:11:55.472 -05:00 [ERR] Error log from Region Controller
+2024-03-04 22:11:55.472 -05:00 [ERR] Error log from Region Controller

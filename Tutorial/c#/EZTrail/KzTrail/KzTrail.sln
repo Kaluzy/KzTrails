@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KzTrail", "KzTrail\KzTrail.csproj", "{48C707F9-D487-4426-8355-068878A8F872}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KzTrail.UI", "KzTrail.UI\KzTrail.UI.csproj", "{6FFD3B3F-01AB-45BC-9FFC-579A9CD4B61B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{48C707F9-D487-4426-8355-068878A8F872}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48C707F9-D487-4426-8355-068878A8F872}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48C707F9-D487-4426-8355-068878A8F872}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48C707F9-D487-4426-8355-068878A8F872}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6FFD3B3F-01AB-45BC-9FFC-579A9CD4B61B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FFD3B3F-01AB-45BC-9FFC-579A9CD4B61B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FFD3B3F-01AB-45BC-9FFC-579A9CD4B61B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FFD3B3F-01AB-45BC-9FFC-579A9CD4B61B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B2D0A1B6-145D-40D7-9C88-313BB3BA4F19}
+	EndGlobalSection
+EndGlobal
